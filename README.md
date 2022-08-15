@@ -1,7 +1,7 @@
 # CS-230-Operating-Systems
 Coursework for CS 230 Operating Systems Class
 
-Included in this repository are a Software design Template, Project One ZIP (code for the application), gameauth.zip & Module Four Journal (a basic webserver application using REST API and a journal about the experience), Singleton.pdf (UML diagram of Singleton Design), Storage and Memory (Description of Storage vs Memory) and Project 3 Submission (The Software Design Document provided to the Client worked on throughout the course).
+Included in this repository are a Software design Template, Project One ZIP (code for the application), gameauth.zip & Module Four Journal (a basic webserver application using REST API and a journal about the experience), Singleton.pdf (UML diagram of Singleton Design), Storage and Memory (Description of Storage vs Memory), Discussion 8-1 (regarding Cloud Based Computing), and Project 3 Submission (The Software Design Document provided to the Client worked on throughout the course).
 
 
 <b>Summary</b>: You work for Creative Technology Solutions (CTS) as a technology consultant. CTS has taken on a new client called "The Gaming Room". The Gaming Room currently currently hosts a game called "Draw It or Lose It" on the Android platform. They want to expand past the Android platform and tap a wider market. To do this they desire to create a web server.  The staff at The Gaming Room does not know how to set up a web server environment. To facilitate this task you need to help them streamline their development. This will involve a software design document that provides an Executive Summary, Design Constraints, Domain Model, Evaluation of various Server OS and IDEs of those OS, and Recommendations based upon all of this research. 
